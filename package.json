@@ -1,0 +1,21 @@
+{
+  "name": "mentor-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "pino": "^6.11.3",
+    "pino-pretty": "^4.7.1",
+    "recursive-readdir": "^2.2.2",
+    "slash-commands": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
